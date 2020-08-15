@@ -1,0 +1,14 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Join My Telegram</name>
+			<url>https://telegram.me/mattechonline</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+		<link>
+			<name>I want this depiction template</name>
+			<url>https://mattechonline.github.io/</url>
+			<iconclass>fa fa-thumbs-up</iconclass>
+		</link>
+	</footerlinks>
+</repo>
