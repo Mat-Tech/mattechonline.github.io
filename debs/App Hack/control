@@ -1,0 +1,13 @@
+Package: com.hackyouriphone.apphk
+Name: Apps Hks
+Version: 3.0-1k
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.firepo.hmodeis.apphack
+Architecture: iphoneos-arm
+Author: hmodei96 <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=apphk
+SileoDepiction: https://depiction.hackyouriphone.org/sileoDepiction.php?filename=apphk
+Section: HYI - Tweaks
+Description: Apps Hks is new tool to hack more programs and games father store more than 300 hacks on this package.
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=apphk
+Maintainer: HackYouriPhone <repo@hackyouriphone.org>
